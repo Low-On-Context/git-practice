@@ -9,3 +9,6 @@ This project is using the Matt Pocock skill to teach a newbie coder about using 
 ## Contributing
 
 See CONTRIBUTING.md
+
+
+## Want to learn Git?  Keep going!
